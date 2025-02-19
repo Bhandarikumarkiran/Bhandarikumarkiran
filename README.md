@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 🔹 **Mechanical Engineer → Data Analyst**  
-🔹 **Director at Mungo Innovation Pvt Ltd** – Leading innovation & consulting  
+🔹 **Research and Development engineer at Mungo Innovation Pvt Ltd** – Leading innovation & consulting  
 🔹 Passionate about **data-driven decision-making, business insights, and analytics**  
 🔹 Strong background in **manufacturing, failure analysis, and market strategy**  
 
